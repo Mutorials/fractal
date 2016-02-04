@@ -1,0 +1,12 @@
+/*
+TODO stylesheet
+*/
+.info {
+  position: absolute;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+.info button, .info input {
+  color: #000;
+}
